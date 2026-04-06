@@ -58,7 +58,7 @@ function TrendingTableSectionComponent({
         </div>
       </div>
 
-      <div className="mt-4">
+      <div className="mt-4 w-full overflow-x-hidden relative">
         <DataTable columns={columns} data={data} emptyMessage={emptyMessage} />
       </div>
     </section>

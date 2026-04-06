@@ -32,7 +32,7 @@ function ConverterSectionComponent({
   const resultId = "converter-result";
 
   return (
-    <section className="text-card-foreground" aria-labelledby={sectionTitleId}>
+    <section className="text-card-foreground relative" aria-labelledby={sectionTitleId}>
       <h2 id={sectionTitleId} className="text-3xl font-semibold tracking-tight">
         {title}
       </h2>
@@ -74,7 +74,6 @@ function ConverterSectionComponent({
             {convertToLabel}
           </span>
           <SelectCombobox
-            inputId={currencyInputId}
             value={currency}
             options={fiatOptions}
             placeholder={convertToLabel}
