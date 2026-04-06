@@ -1,0 +1,78 @@
+{
+  "siteName": "KriptoUstası",
+  "nav": {
+    "converter": "Converter",
+    "trending": "Trending",
+    "about": "About"
+  },
+  "hero": {
+    "eyebrow": "Crypto Ticker & Converter",
+    "title": "Track hot coins and convert crypto in seconds.",
+    "description": "KriptoUstası gives you a simple place to follow trending coins and quickly convert any crypto amount into USD, EUR, AZN, GBP, or TRY."
+  },
+  "about": {
+    "title": "About KriptoUstası",
+    "description": "KriptoUstası is a practical crypto tracker and converter. It helps you see what is moving in the market and convert values without jumping between tools."
+  },
+  "seo": {
+    "homeTitle": "KriptoUstası - Crypto Ticker and Converter",
+    "homeDescription": "Track trending crypto coins in real time and instantly convert crypto amounts to USD, EUR, AZN, GBP, and TRY.",
+    "homeKeywords": [
+      "crypto ticker",
+      "crypto converter",
+      "bitcoin price",
+      "ethereum price",
+      "live crypto prices"
+    ],
+    "aboutTitle": "About KriptoUstası - Mission, Data, and Methodology",
+    "aboutDescription": "Learn how KriptoUstası sources market data, updates prices, and keeps the crypto dashboard fast and easy to use.",
+    "aboutKeywords": [
+      "about crypto tool",
+      "crypto data source",
+      "cryptocompare api",
+      "crypto dashboard"
+    ]
+  },
+  "dashboard": {
+    "converterTitle": "Crypto Converter",
+    "converterDescription": "Pick a coin, enter an amount, and instantly see its value in fiat currencies.",
+    "amountLabel": "Amount",
+    "coinLabel": "Coin",
+    "convertToLabel": "Convert to",
+    "convertedResultLabel": "Converted Result",
+    "trendingTitle": "Trending Coins",
+    "trendingDescription": "A live-style snapshot of coins leading by market cap.",
+    "searchPlaceholder": "Search by coin name or symbol...",
+    "loading": "Loading prices...",
+    "resultsSuffix": "results",
+    "updatedLabel": "Updated",
+    "tableCoin": "Coin",
+    "tableSymbol": "Symbol",
+    "tablePriceUsd": "Price (USD)",
+    "table24h": "24h",
+    "tableMarketCap": "Market Cap",
+    "tableNoResults": "No results."
+  },
+  "aboutPage": {
+    "introLabel": "Product Overview",
+    "missionTitle": "Our Mission",
+    "missionText": "KriptoUstası is built to make daily crypto tracking feel easy, fast, and clear. We focus on useful information, so you can check trending assets and convert values without friction.",
+    "highlightsTitle": "What You Can Do Here",
+    "highlights": [
+      "See top market-cap coins in one clean table with frequent updates.",
+      "Convert crypto amounts to USD, EUR, AZN, GBP, and TRY right away.",
+      "Find coins quickly by typing the name or symbol.",
+      "Switch language or theme without losing your place."
+    ],
+    "dataTitle": "Data Source and Update Policy",
+    "dataText": "Price data comes from CryptoCompare endpoints. The dashboard refreshes on a schedule to stay current while keeping the interface smooth.",
+    "methodologyTitle": "How We Prioritize Performance",
+    "methodologyPoints": [
+      "Memoized values help avoid repeated work.",
+      "Deferred search keeps typing responsive even with longer lists.",
+      "Polling updates only what is needed, not the whole page."
+    ],
+    "disclaimerTitle": "Important Disclaimer",
+    "disclaimerText": "KriptoUstası is for information only and is not financial advice. Always confirm price, fees, and liquidity on your exchange before trading."
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "siteName": "KriptoUstası",
+  "nav": {
+    "converter": "Hesablayıcı",
+    "trending": "Trendlər",
+    "about": "Haqqında"
+  },
+  "hero": {
+    "eyebrow": "Kripto Tiker və Hesablayıcı",
+    "title": "Trenddə olan coinləri izləyin və saniyələr içində çevirin.",
+    "description": "KriptoUstası sizə populyar coinləri rahat izləməyə və istənilən kripto məbləğini konvert etməyə imkan verir."
+  },
+  "about": {
+    "title": "Haqqımızda",
+    "description": "KriptoUstası sadə və faydalı Kripto siyahı + Hesablayıcı alətidir. Bazarın populyar coinlərini göstərir və çevirməni bir neçə saniyəyə edir."
+  },
+  "seo": {
+    "homeTitle": "KriptoUstası - Kripto Tiker və Hesablayıcı",
+    "homeDescription": "Trend coinləri izləyin, qiymətləri canlı görün və kripto məbləğini USD, EUR, AZN, GBP və TRY valyutalarına dərhal çevirin.",
+    "homeKeywords": [
+      "kripto tiker",
+      "kripto hesablayıcı",
+      "bitcoin qiyməti",
+      "ethereum qiyməti",
+      "coin çevirmə"
+    ],
+    "aboutTitle": "KriptoUstası Haqqında - Missiya və Məlumat Mənbəyi",
+    "aboutDescription": "KriptoUstası-nın məqsədi, məlumat mənbəyi, yenilənmə prinsipləri və platformanın performans yanaşması haqqında ətraflı məlumat.",
+    "aboutKeywords": [
+      "kripto platforma haqqında",
+      "kripto məlumat mənbəyi",
+      "crypto compare api",
+      "kripto alət"
+    ]
+  },
+  "dashboard": {
+    "converterTitle": "Kripto Hesablayıcı",
+    "converterDescription": "Coin seçin, məbləği daxil edin və valyuta qarşılığını dərhal görün.",
+    "amountLabel": "Məbləğ",
+    "coinLabel": "Coin",
+    "convertToLabel": "Valyuta",
+    "convertedResultLabel": "Nəticə",
+    "trendingTitle": "Trenddə Olanlar",
+    "trendingDescription": "Bazar dəyərinə görə öndə olan coinlərin canlı görünüşü.",
+    "searchPlaceholder": "Coin adı və ya simvoluna görə axtarın...",
+    "loading": "Qiymətlər yüklənir...",
+    "resultsSuffix": "nəticə",
+    "updatedLabel": "Yenilənmə tarixi",
+    "tableCoin": "Coin",
+    "tableSymbol": "Simvol",
+    "tablePriceUsd": "Qiymət (USD)",
+    "table24h": "son 24 saat",
+    "tableMarketCap": "Bazar Dəyəri",
+    "tableNoResults": "Nəticə tapılmadı."
+  },
+  "aboutPage": {
+    "introLabel": "Məhsul Haqqında",
+    "missionTitle": "Missiyamız",
+    "missionText": "KriptoUstası gündəlik kripto izləməni daha rahat, sürətli və aydın etmək üçün hazırlanıb. Məqsədimiz məlumat səs-küyünü azaltmaq və sizə lazım olan əsas məlumatı bir yerdə verməkdir.",
+    "highlightsTitle": "Burada Nələri Edə Bilərsiniz",
+    "highlights": [
+      "Top coinləri bir cədvəldə asanlıqla izləyin.",
+      "Kripto məbləğini dərhal USD, EUR, AZN, GBP və TRYyə çevirin.",
+      "Coin adı və ya simvolu ilə sürətli axtarış edin.",
+      "Dil və mövzu dəyişsə də, eyni səhifədə qalın."
+    ],
+    "dataTitle": "Məlumat Siyasəti",
+    "dataText": "Qiymətlər CryptoCompare API endpointlərindən alınır.",
+    "methodologyTitle": "Performans",
+    "methodologyPoints": [
+      "Memoized hesablamalar təkrarlanan işi azaldır.",
+      "Deferred search böyük siyahıda belə yazmanı sürətli saxlayır.",
+      "Polling yalnız lazım olan hissələri yeniləyir, səhifəni başdan yükləmir."
+    ],
+    "disclaimerTitle": "Vacib Qeyd",
+    "disclaimerText": "KriptoUstası yalnız məlumat məqsədi daşıyır və maliyyə məsləhəti deyil. Ticarət qərarı verməzdən əvvəl qiyməti, komissiyanı və likvidliyi birjada ayrıca yoxlayın."
+  }
+}
