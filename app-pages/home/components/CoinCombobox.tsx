@@ -57,8 +57,10 @@ export function CoinCombobox({
                     alt={`${coin.name} icon`}
                     width={18}
                     height={18}
-                    style={{ height: "auto" }}
-                    className="rounded-full"
+                    sizes="18px"
+                    loading="lazy"
+                    decoding="async"
+                    className="h-[18px] w-[18px] rounded-full"
                   />
                   <span>
                     {coin.name} ({coin.symbol})

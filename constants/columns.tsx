@@ -45,8 +45,7 @@ export const createColumns = (labels: TableLabels): ColumnDef<CryptoCoin>[] => [
             sizes="24px"
             loading="lazy"
             decoding="async"
-            style={{ height: "auto" }}
-            className="rounded-full"
+            className="h-6 w-6 rounded-full"
           />
           <div className="flex flex-col">
             <span className="font-medium">{coin.name}</span>

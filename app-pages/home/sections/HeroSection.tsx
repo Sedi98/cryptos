@@ -40,8 +40,8 @@ export function HeroSection({ title, description, converterLabel, lang }: HeroSe
           sizes="(max-width: 767px) 0px, (max-width: 1279px) 45vw, 400px"
           fetchPriority="high"
           decoding="async"
-          placeholder="blur"
-          className="mx-auto hidden md:block aspect-square w-full max-w-[400px] animate-accordion-up object-contain"
+          placeholder="empty"
+          className="mx-auto hidden md:block h-[320px] w-[320px] lg:h-[360px] lg:w-[360px] xl:h-[400px] xl:w-[400px] object-contain"
         />
       </div>
     </header>
