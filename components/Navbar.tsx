@@ -42,7 +42,7 @@ export function Navbar({
   const closeMobileMenu = () => setIsMobileMenuOpen(false);
 
   return (
-    <header className="sticky top-0 z-40 border-b border-white/10 bg-background/70 backdrop-blur-xl">
+    <header className="sticky top-0 z-40 border-b border-white/10 bg-background/90 md:bg-background/70 md:backdrop-blur-xl">
       <Container
         as="nav"
         className="flex h-16 items-center justify-between"

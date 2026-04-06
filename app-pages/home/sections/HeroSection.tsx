@@ -38,8 +38,9 @@ export function HeroSection({ title, description, converterLabel, lang }: HeroSe
           width={400}
           height={400}
           sizes="(max-width: 767px) 0px, (max-width: 1279px) 45vw, 400px"
+          loading="eager"
           fetchPriority="high"
-          decoding="async"
+          decoding="sync"
           placeholder="empty"
           className="mx-auto hidden md:block h-[320px] w-[320px] lg:h-[360px] lg:w-[360px] xl:h-[400px] xl:w-[400px] object-contain"
         />

@@ -17,9 +17,9 @@ export function HomePage({ lang, dict, initialCoins, initialRates }: HomePagePro
 
       <main className="relative overflow-hidden pb-14" aria-labelledby="home-hero-title">
         <div className="pointer-events-none absolute inset-0">
-          <div className="absolute -top-32 left-1/2 h-96 w-96 -translate-x-1/2 rounded-full bg-cyan-500/15 blur-3xl" />
-          <div className="absolute top-56 -left-20 h-72 w-72 rounded-full bg-blue-500/15 blur-3xl" />
-          <div className="absolute top-40 right-0 h-80 w-80 rounded-full bg-teal-500/10 blur-3xl" />
+          <div className="absolute -top-32 left-1/2 hidden h-96 w-96 -translate-x-1/2 rounded-full bg-cyan-500/15 blur-3xl sm:block" />
+          <div className="absolute top-56 -left-20 hidden h-72 w-72 rounded-full bg-blue-500/15 blur-3xl sm:block" />
+          <div className="absolute top-40 right-0 hidden h-80 w-80 rounded-full bg-teal-500/10 blur-3xl sm:block" />
         </div>
 
         <Container className="relative pt-12">
